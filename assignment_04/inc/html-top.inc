@@ -13,8 +13,7 @@
 	<header>
 		<h1><a href="index.php">Fashion Facts</a></h1>
 	</header>
-
-	<?php include "inc/nav.inc"; ?>
+	
 
  
 	<main>

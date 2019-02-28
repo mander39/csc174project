@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Courgette');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Arima+Madurai:800|Fahkwang|Markazi+Text');
 
 .container{
 	margin: 0 auto;
@@ -16,7 +16,11 @@
 
 .grid{
 	display: grid;
-	grid-template-columns: 1fr 2fr;
+	grid-template-columns: 2fr 2fr;
+}
+
+nav {
+	margin: -65px 0px 0px 0px;
 }
 
 div a {
@@ -25,10 +29,11 @@ div a {
 }
 
 p{
-	line-height:1.5em;
-	font-size:15px;
+	line-height:1.4em;
+	font-size:21px;
 	padding: 10px;
-	font-family: "EB Garamond", serif;
+	font-family: "Markazi Text", serif;
+	color: #656262;
 }
 
 main p{
@@ -37,7 +42,7 @@ main p{
 
 header a, text a, nav a{
     text-decoration: none;
-    color: #949599;
+    color: #ea9fc1;
 }
 
 header a, text a{
@@ -47,43 +52,47 @@ header a, text a{
 
 h1{
 	font-family: "Courgette", serif;
-	font-size: 2.5em;
+	font-size: 2.7em;
     font-weight: bold;
     text-decoration: none;
 	color: #000000;
+	text-align: center;
 }
 
 h2{
+	text-align: left;
 	font-weight: bold;
-	font-family: "Courgette", serif;
+	font-family: "Arima Madurai", serif;
 	font-size: 2.0em;
-	color: #949599;
+	color: #65b6b0;
 }
+
 h3{
 	border-top: 3px solid #65b6b0;
 	border-bottom: 3px solid #65b6b0;
+	font-size: 1.5em;
 	font-family: "Oswald", serif;
 	color: #65b6b0;
 }
 
 h4{
+	font-size: 1.2em;
 	font-family: "Oswald", serif;
 	color: #97cfcc;
 }
 
 footer{
 	text-align: right;
-	font-family: "EB Garamond", serif;
+	font-family: "Markazi Text", serif;
 	border:black 5px;
 	margin-bottom:10px;
 	padding-top: 30px;
 }
 
 ul{
-	font-family: "EB Garamond", serif;
-	margin:10px;
+	margin: 0px 0px 0px 0px;
 	list-style-type: circle;
-	padding:20px;
+	padding: 0px 0px 0px 0px;
 }
 
 th, td {

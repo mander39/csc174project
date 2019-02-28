@@ -1,22 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Arima+Madurai:800|Fahkwang|Markazi+Text');
+
 nav ul {
+	text-align: right;
 	list-style-type: none;
 	display: inline;
-	font-family:"Courier New",Monospace;
-	display: flex;
-	justify-content: space-around;
-}
-
-nav li {
-	max-width: max-content; 
-	margin:20px;
-	width: 50%;
+	font-family: "Arima Madurai", serif;
+	
 }
 
 nav a {
-	color: black;
+	color: #989696;
 	display: block;
-	text-align: center;
 	text-decoration: none;
+}
+
+h1 a {
+	border: 2px solid #ea9fc1;
+	background-image: url("../images/bkg1.png");
+	background-size: 300px;
 }
 
 nav a:visited{
@@ -25,7 +26,6 @@ nav a:visited{
 
 nav a:hover {
 	color: grey;
-	font-size:120%;
 	text-decoration: underline;
 }
 
