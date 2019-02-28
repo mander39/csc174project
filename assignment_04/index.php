@@ -1,62 +1,67 @@
-<?php $currentPage="";
+<?php
+$currentPage="Shoes | ";
 include "inc/html-top.inc";?>
-			
+
+	
 
 
-		<section class="excerpt">
-			<div class="text">
-				<h2 class = "fix"><a href="shoes.php">Fashionable Shoes</a></h2>
+		<h2>Fashionable Shoes</h2>
+		<article>
+			<h3>Sneakers</h3>
+			<div class = "grid">
+					<div>
 
-				<ul>
-					<li>Sneakers</li>
-					<li>Boots</li>
-					<li>Sandals</li>
-				</ul>
+				<h4>Introduction</h4>
+					<p>Sneakers (also known as athletic shoes, tennis shoes, gym shoes, sport shoes, runners, or trainers) are shoes primarily designed for sports or other forms of physical exercise, but which are now also widely used for everyday wear. The term generally describes a type of footwear with a flexible sole made of rubber or synthetic material and an upper part made of leather, synthetic substitutes or cloth.</p>
+				</div>
 
-				<p>A shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion. The design of shoes has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones</p>
-
+				<div>
+				<h4>Brief History</h4>
+					<p> Ã–tzi the Iceman's shoes, dating to 3300 BC, featured brown bearskin bases, deerskin side panels, and a bark-string net, which pulled tight around the foot.  However, most modern shoes have soles made from natural rubber, polyurethane, or polyvinyl chloride (PVC) compounds.[44]  Soles can be simply  "a single material in a single layer” or they can be complex, with multiple structures or layers and materials. When various layers are used, soles may consist of an insole, midsole, and an outsole.[45]</p>
+				</div>
 			</div>
-			<a href="shoes.php"><img src="images/nike.jpg"
-		    	 alt="a picture about shoes"></a>
-		</section>
 
-		<section class="excerpt">
-			<div class="text">
+		</article>
+		<article>
 
-				<h2 class = "fix"><a href="sfashion.php">High-Street Fashion</a></h2>
+			<h3>Boots</h3>
 
-				<ul>
-					<li>Everlane</li>
-					<li>Forever 21</li>
-					<li>American Eagles</li>
-				</ul>
+				<div class = "grid">
+					<div>
 
-				<p>Fame. Wealth. Fashion. Once unattainable by any except for the social elite, these characteristics were envied by all. However, with the development of high-street fashion, these companies with humble, family-owned beginnings now allow people to experience fashion in a way never before seen. Everlane is a United States clothing retailer that sells primarily online. The organization is headquartered in San Francisco, California and also has a store in New York City. Forever 21 is an American fast fashion retailer headquartered in Los Angeles, California. American Eagle Outfitters, Inc. is an American lifestyle clothing and accessories retailer.</p>
+				<h4>Introduction</h4>
+					<p>A boot is a type of footwear and not a specific type of shoe. Most boots mainly cover the foot and the ankle, while some also cover some part of the lower calf. Some boots extend up the leg, sometimes as far as the knee or even the hip. Most boots have a heel that is clearly distinguishable from the rest of the sole, even if the two are made of one piece. Traditionally made of leather or rubber, modern boots are made from a variety of materials. Boots are worn both for their functionality â€“ protecting the foot and leg from water, extreme cold, mud or hazards (e.g., work boots may protect wearers from chemicals or use a steel toe) or providing additional ankle support for strenuous activities with added traction requirements (e.g., hiking), or may have hobnails on their undersides to protect against wear and to get better grip; and for reasons of style and fashion.</p>
+				</div>
 
+				<div>
+				<h4>Brief History</h4>
+					<p>The world's oldest leather shoe, made from a single piece of cowhide laced with a leather cord along seams at the front and back, was found in the Areni-1 cave complex in Armenia in 2008 and is believed to date to 3500 BC. High fashion shoes made by famous designers may be made of expensive materials, use complex construction and sell for hundreds or even thousands of dollars a pair. Some shoes are designed for specific purposes, such as boots designed specifically for mountaineering or skiing.</p>
+				</div>
 			</div>
-			<a href="sfashion.php"><img src="images/sfashion.jpg"
-			     alt="a picture about high street fashion"></a>
-		</section>
 
-		<section class="excerpt">
-			<div class="text">
-				<h2 class = "fix"><a href="designerhouse.php">Designer House</a></h2>
+				
+		</article>
 
-				<ul>
-					<li>Louis Vuitton</li>
-					<li>Chanel</li>
-					<li>Dior</li>
-				</ul>
+		<article>
+			<h3>Sandals</h3>
 
-				<p>Fashion isn't created over night, and neither are the companies that make it. Designer houses have a unique history of innovation and inspiration representative of humans ingenuity and creativity. They play a big role in the creation of style and in tern help shape cultures. The Louis Vuitton label was founded by Vuitton in 1854 on Rue Neuve des Capucines in Paris, France. The House of Chanel (Chanel S.A.) originated in 1909 when Gabrielle Chanel opened a millinery shop at 160 Boulevard Malesherbes. The House of Dior was established on 16 December 1946 in "a private house"[5] at 30 Avenue Montaigne Paris B.</p>
+				<div class = "grid">
+					<div>
+				<h4>Introduction</h4>
+					<p>Sandals are an open type of footwear, consisting of a sole held to the wearer's foot by straps going over the instep and, sometimes, around the ankle. Sandals can also have a heel. While the distinction between sandals and other types of footwear can sometimes be blurry (as in the case of huarachesâ€”the woven leather footwear seen in Mexico, and peep-toe pumps), the common understanding is that a sandal leaves all or most of the foot exposed. People may choose to wear sandals for several reasons, among them comfort in warm weather, economy (sandals tend to require less material than shoes and are usually easier to construct), and as a fashion choice.</p>
+				</div>
+				<div>
+
+				<h4>Brief History</h4>
+					<p>The earliest known shoes are sagebrush bark sandals dating from approximately 7000 or 8000 BC, found in the Fort Rock Cave in the US state of Oregon in 1938.[4] These shoes lack a feature that most modern shoes typically have: a pair of strings or cords, one for each shoe, finished off at both ends with stiff sections, known as aglets. Each shoelace typically passes through a series of holes, eyelets, loops or hooks on either side of the shoe and loosening the lacing allows the shoe to open wide enough for the foot to be inserted or removed. However, like the sagebrush bark sandals, basic sandals may consist of only a thin sole and simple strap. Furthermore, this type of protective footwear can be sold for a low cost.</p>
+				</div>
 			</div>
-			<a href="designerhouse.php"><img src="images/dhouse.jpg"
-			     alt="a picture about designer house"></a>
-		</section>
-		
+				
+		</article>
 	</main>
 
-	<footer> © CSC 174: Advanced Front-end Web Design and Development</footer>	
+	<footer> © CSC 174: Advanced Front-end Web Design and Development</footer>
+
 
     <?php include "inc/scripts.inc"; ?>
 

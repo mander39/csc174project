@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
 .container{
 	margin: 0 auto;
 	width: 95%;
@@ -44,7 +46,8 @@ header a, text a{
 }
 
 h1{
-	font-family: "Oswald", serif;
+	font-family: "Courgette", serif;
+	font-size: 2.5em;
     font-weight: bold;
     text-decoration: none;
 	color: #000000;
@@ -52,7 +55,8 @@ h1{
 
 h2{
 	font-weight: bold;
-	font-family: "Oswald", serif;
+	font-family: "Courgette", serif;
+	font-size: 2.0em;
 	color: #949599;
 }
 h3{
