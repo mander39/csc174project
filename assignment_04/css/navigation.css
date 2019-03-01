@@ -9,7 +9,7 @@ nav ul {
 }
 
 nav a {
-	color: #989696;
+	color: black;
 	display: block;
 	text-decoration: none;
 }
@@ -25,7 +25,7 @@ nav a:visited{
 }
 
 nav a:hover {
-	color: grey;
+	color: #ea9fc1;
 	text-decoration: underline;
 }
 
